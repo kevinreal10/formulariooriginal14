@@ -1,0 +1,123 @@
+[
+    {
+        "marca": "pc gamer",
+        "modelo": "PC Gamer Draco Blue Plus Core",
+        "img": "https://mipclista.com.pe/4171-home_default/pc-gamer-draco-rgb-core-i7-11700f-11th.jpg",
+        "precio": 3000
+    },
+    {
+        "marca": "pc gamer",
+        "modelo": "PC Gamer Draco RGB Core",
+        "img": "https://www.cybermarket.pe/wp-content/uploads/2021/08/Pc-Gamer-2.jpg",
+        "precio": 5000
+    },
+    {
+        "marca": "pc gamer",
+        "modelo": "PC Gamer Draco RGB Core",
+        "img": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F1270%2FELECTROHOGAR%2FPC-GAMER-I7-COMPLETA_004236518944_2.jpeg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=c607b566572b71e7a785e8a3d817acf1",
+        "precio": 3500
+    },
+    {
+        "marca": "pc gamer",
+        "modelo": "PC Gamer Draco Core",
+        "img": "https://promart.vteximg.com.br/arquivos/ids/7000567-1000-1000/image-491f1c73211844358430b8834184d3f4.jpg?v=638195081103000000",
+        "precio": 4000
+    },
+    {
+        "marca": "pc gamer",
+        "modelo": "PC Gamer Draco Red Core",
+        "img": "https://oechsle.vteximg.com.br/arquivos/ids/7048858-1500-1500/PC-GAMER-RYZEN5-GT730-4GB.jpg?v=637794401475100000",
+        "precio":5000
+    },
+    {
+        "marca": "pc gamer",
+        "modelo": "PC Gamer Draco gren Core",
+        "img": "https://mipclista.com/4288-large_default/pc-gamer-falkor-ryzen-7-5800x.jpg",
+        "precio": 3500
+    },
+    {
+        "marca": "pc gamer",
+        "modelo": "PC Gamer Draco-RGB Plus Core",
+        "img": "https://www.infinitonline.com.ar/images/00000000000015731118042342.png",
+        "precio": 4000
+    },
+    {
+        "marca": "pc gamer",
+        "modelo": "PC Gamer Draco RGB Plus Core",
+        "img": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_121186943_2940405_1?wid=800&hei=800&qlt=70",
+        "precio": 3500
+    },
+    {
+        "marca": "pc gamer",
+        "modelo": "PC Gamer Ultra Fire ",
+        "img": "https://compuservicperu.com/wp-content/uploads/2022/01/pc-gamer-oficial.jpg",
+        "precio": 5000
+    },
+    {
+        "marca": "pc gamer",
+        "modelo": "PC Amd Ryzen",
+        "img": "https://apzanet.com.pe/assets/img/pcgamaintel/14.jpg",
+        "precio": 5500
+    },
+    {
+        "marca": "pc gamer",
+        "modelo": "PC Gamer FireX",
+        "img": "https://www.sercoplus.com/34844-medium_default/pc-gaming-plus-amd-r5-5500-16gb-ram-s.jpg",
+        "precio": 4200
+    },
+    {
+        "marca": "pc gamer",
+        "modelo": "PC Gamer Draco-RGB",
+        "img": "https://www.conexionwip.com/wp-content/uploads/2022/03/pc-gamer-falkor-plus-ryzen-7-5800x-3.jpg",
+        "precio": 3700
+    },
+    {
+        "marca": "pc gamer",
+        "modelo": "PC Gamer Ultra Fire",
+        "img": "https://www.tiendastec.com/wp-content/uploads/2022/09/Computadora-Intel-Core-i5-11400F_Tiendas-tEC.webp",
+        "precio": 5100
+    },
+    {
+        "marca": "pc gamer",
+        "modelo": "PC Gamer Draco",
+        "img": "https://www.tiendastec.com/wp-content/uploads/2022/09/Computadora-AMD-Ryzen-5-4650G-PRO_Tiendas-tEC-300x300.webp",
+        "precio": 5700
+    },
+    {
+        "marca": "pc gamer",
+        "modelo": "PC Gamer Draco RGB",
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/11640397-800-auto?v=637786562860400000&width=800&height=auto&aspect=true",
+        "precio": 3200
+    },
+    {
+        "marca": "pc gamer",
+        "modelo": "PC Gamer Draco RGB",
+        "img": "https://plazavea.vteximg.com.br/arquivos/ids/2281247-512-512/image-ec7d87cac60b4d6fa600babb34ad916a.jpg",
+        "precio": 4000
+    },
+    {
+        "marca": "pc gamer",
+        "modelo": "PC Gamer Draco RGB Core",
+        "img": "https://www.apzanet.com.pe/assets/img/pcgamaryzen/9.jpg",
+        "precio": 4700
+    },
+    {
+        "marca": "pc gamer",
+        "modelo": "PC Gamer Draco RGB",
+        "img": "https://www.apzanet.com.pe/assets/img/pcgamaryzen/10.jpg",
+        "precio": 4300
+    },
+    {
+        "marca": "pc gamer",
+        "modelo": "PC Gamer Draco RGB",
+        "img": "https://www.apzanet.com.pe/assets/img/pcgamaryzen/11.jpg",
+        "precio": 5700
+    },
+    {
+        "marca": "pc gamer",
+        "modelo": "PC Gamer Draco RGB Core",
+        "img": "https://imgs.extra.com.br/1559560994/1xg.jpg",
+        "precio": 3100
+    }
+    
+]
